@@ -1,0 +1,15 @@
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\bin\Debug\net6.0\home_task2_4_dop.exe
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\bin\Debug\net6.0\home_task2_4_dop.deps.json
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\bin\Debug\net6.0\home_task2_4_dop.runtimeconfig.json
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\bin\Debug\net6.0\home_task2_4_dop.dll
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\bin\Debug\net6.0\home_task2_4_dop.pdb
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.csproj.AssemblyReference.cache
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.AssemblyInfoInputs.cache
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.AssemblyInfo.cs
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.dll
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\refint\home_task2_4_dop.dll
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.pdb
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\home_task2_4_dop.genruntimeconfig.cache
+C:\GeekBrains\C\seminar\HomeTask\home_task2_4_dop\obj\Debug\net6.0\ref\home_task2_4_dop.dll
