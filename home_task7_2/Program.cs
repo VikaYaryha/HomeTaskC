@@ -30,7 +30,7 @@ InputMatrix(matrix);
 
 Console.Write("Введите позицию элемента: ");
 string [] position = Console.ReadLine().Split(" ");
-if (int.Parse(position[0]) > matrix.GetLength(0) || int.Parse(position[1]) > matrix.GetLength(1))
+if (int.Parse(position[0]) >= matrix.GetLength(0) || int.Parse(position[1]) >= matrix.GetLength(1))
     Console.Write("такой позиции в массиве нет");
 else 
     Console.Write(matrix[int.Parse(position[0]), int.Parse(position[1])]);
